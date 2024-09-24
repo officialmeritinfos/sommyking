@@ -24,6 +24,7 @@ Route::get('about',[HomeController::class,'about']);
 Route::get('plans',[HomeController::class,'plans']);
 Route::get('terms',[HomeController::class,'terms']);
 Route::get('privacy',[HomeController::class,'privacy']);
+Route::get('legal',[HomeController::class,'legal']);
 Route::get('faqs',[HomeController::class,'faqs']);
 Route::get('contact',[HomeController::class,'contact']);
 Route::get('service',[HomeController::class,'service']);
