@@ -24,7 +24,7 @@
                             </div>
                             <!-- Button Box -->
                             <div class="slider-three_button-box">
-                                <a class="btn-style-seven theme-btn btn-item" href="{{route('register')}}">
+                                <a class="btn-style-seven theme-btn btn-item" href="{{$web->registerPage}}">
                                     <div class="btn-wrap">
                                         <span class="text-one">Join us <i class="fa-solid fa-caret-right fa-fw"></i></span>
                                         <span class="text-two">Join us <i class="fa-solid fa-caret-right fa-fw"></i></span>
@@ -53,7 +53,7 @@
                             </div>
                             <!-- Button Box -->
                             <div class="slider-three_button-box">
-                                <a class="btn-style-seven theme-btn btn-item" href="{{route('register')}}">
+                                <a class="btn-style-seven theme-btn btn-item" href="{{$web->registerPage}}">
                                     <div class="btn-wrap">
                                         <span class="text-one">Join us <i class="fa-solid fa-caret-right fa-fw"></i></span>
                                         <span class="text-two">Join us <i class="fa-solid fa-caret-right fa-fw"></i></span>
@@ -485,7 +485,7 @@
                                 <div class="pricing-price">
 
                                 </div>
-                                <a href="{{route('register')}}" class="price_btn">Start Investment</a>
+                                <a href="{{$web->registerPage}}" class="price_btn">Start Investment</a>
                             </div>
                         </div>
                     </div><!--- END COL -->
@@ -685,7 +685,7 @@
                     </div>
                 </div>
                 <div class="right-box">
-                    <a class="btn-style-seven theme-btn clearfix" href="{{route('register')}}">
+                    <a class="btn-style-seven theme-btn clearfix" href="{{$web->registerPage}}">
                         <div class="btn-wrap">
                             <span class="text-one">Create Account</span>
                             <span class="text-two">Create Account</span>

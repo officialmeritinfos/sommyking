@@ -211,8 +211,8 @@
                                     </li>
                                     <li class="dropdown"><a href="#">Account</a>
                                         <ul>
-                                            <li><a href="{{route('login')}}">Login</a></li>
-                                            <li><a href="{{route('register')}}">Register</a></li>
+                                            <li><a href="{{$web->loginPage}}">Login</a></li>
+                                            <li><a href="{{$web->registerPage}}">Register</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="{{url('contact')}}">Contact</a></li>

@@ -71,7 +71,7 @@
                                             <b>Total</b> {{$package->Roi*$package->numberOfReturn}}%
                                         </li>
                                     </ul>
-                                    <a href="{{route('register')}}" class="btn btn-outline-primary rounded-pill">Create Account<i class="fas fa-arrow-right fa-sm ms-1"></i></a>
+                                    <a href="{{$web->registerPage}}" class="btn btn-outline-primary rounded-pill">Create Account<i class="fas fa-arrow-right fa-sm ms-1"></i></a>
                                 </div>
                             </div>
                         </div>
