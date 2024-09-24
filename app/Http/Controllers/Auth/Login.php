@@ -19,7 +19,7 @@ class Login extends Controller
     use GenerateUnique;
     public function landingPage()
     {
-        return redirect('https://app.nerofxexperts.com');
+        return redirect('https://app.dexteradeo.com/auth/login');
         $web = GeneralSetting::find(1);
         $dataView = [
             'web'   =>  $web,

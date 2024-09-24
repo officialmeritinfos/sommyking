@@ -19,8 +19,8 @@ class Register extends Controller
     use GenerateUnique;
     public function landingPage(Request $request)
     {
-        return redirect('https://app.nerofxexperts.com/register');
-        
+        return redirect('https://app.dexteradeo.com/auth/register');
+
         $web = GeneralSetting::find(1);
         $dataView=[
             'web'=>$web,
