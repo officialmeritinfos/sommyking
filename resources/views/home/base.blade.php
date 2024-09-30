@@ -361,7 +361,7 @@
                                     <h4>Certificate info:</h4>
 
                                     <div class="timing">
-                                       <img src="{{asset('home/images/cert.jpg')}}" style="width:150px;"/>
+                                       <img src="{{asset('home/images/certificate.jpeg')}}" style="width:150px;"/>
                                     </div>
                                 </div>
                             </div>
@@ -376,7 +376,7 @@
             </div>
 
             <div class="footer-bottom">
-                <div class="copyright">2010 - 2023 &copy; All rights reserved by <a href="{{url('/')}}">{{$siteName}}</a></div>
+                <div class="copyright">2019 - {{date('Y')}} &copy; All rights reserved by <a href="{{url('/')}}">{{$siteName}}</a></div>
             </div>
 
         </div>

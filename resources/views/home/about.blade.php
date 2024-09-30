@@ -18,9 +18,9 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-9 text-center">
-                        <h1>Putting our clients first <span class="text-highlight">since 2010</span></h1>
+                        <h1>Putting our clients first <span class="text-highlight">since 2019</span></h1>
                         <p class="lead text-muted">
-                            For more than 10 years, we’ve been empowering clients by helping them take
+                            For more than 5 years, we’ve been empowering clients by helping them take
                             control of their financial lives.
                         </p>
                     </div>
@@ -56,10 +56,10 @@
                                 <div>
                                     <h3 class="h4">History</h3>
                                     <p class="mb-0">
-                                        In 2010, {{$siteName}} was founded, envisioning a future where cryptocurrencies and AI intersect
+                                        In 2019, {{$siteName}} was founded, envisioning a future where cryptocurrencies and AI intersect
                                         to revolutionize the financial landscape. By 2008-2009,
                                         the company focuses on research and development, exploring the potential of
-                                        cryptocurrencies and laying the foundation for AI-driven solutions. By 2010-2012,
+                                        cryptocurrencies and laying the foundation for AI-driven solutions. By 2019-2012,
                                         {{$siteName}} establishes itself as a trusted name in the cryptocurrency industry,
                                         offering innovative investment strategies and attracting a growing client base.
                                         By 2021,{{$siteName}} reaches a milestone, managing a diverse portfolio of clients and establishing

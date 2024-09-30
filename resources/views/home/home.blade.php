@@ -182,7 +182,7 @@
                             <!-- Counter Column -->
                             <div class="about-two_counter-block" data-parallax='{"y" : 50}'>
                                 <div class="dots-layer" style="background-image:url({{asset('home/images/icons/about-dots.png')}})"></div>
-                                <div class="about-two_counter-number"><span class="odometer" data-count="13"></span></div>
+                                <div class="about-two_counter-number"><span class="odometer" data-count="5"></span></div>
                                 <div class="about-two_counter-text">years of <br> experiences</div>
                             </div>
                             <img src="{{asset('home/images/resource/about-1.jpg')}}" alt="" />
